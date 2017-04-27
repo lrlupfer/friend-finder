@@ -1,3 +1,5 @@
+// storing data in friendData array
+
 var friendData = [
 	{
 	name: "Lindsey Lupfer",
