@@ -10,6 +10,11 @@ var friendData = [
 	name: "Cutest Puppy",
 	photo: "http://r.ddmcdn.com/s_f/o_1/cx_633/cy_0/cw_1725/ch_1725/w_720/APL/uploads/2014/11/too-cute-doggone-it-video-playlist.jpg",
 	scores: [ "2", "2", "2", "2", "2", "2", "2", "2", "2", "2" ]
+	},
+	{
+	name: "Kitten",
+	photo: "http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg",
+	scores: [ "5", "5", "1", "5", "3", "3", "1", "3", "5", "1" ]
 	}
 ];
 
